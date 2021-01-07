@@ -6,3 +6,5 @@ BrowseTextField is basically and javax.swing.JTextField and a javax.swing.JButto
 The BackgroundAugmentedTextArea class is basically a fix for a silly problem.  The javax.swing.JTextArea class doesn't normally allow the user to change the background color, but this inter-office messaging app I once made required different backround colors.  It's a simple work-around, and easy to use.
 
 The DateChooser is actually a dialog that presents the user with a calendar-shaped user interface for choosing dates.
+
+![Alt text](https://github.com/johnmccullock/useful_swing_components/blob/main/date_chooser.jpg?raw=true)

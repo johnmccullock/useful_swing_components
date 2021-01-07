@@ -10,3 +10,7 @@ The DateChooser is actually a dialog that presents the user with a calendar-shap
 ![Alt text](https://github.com/johnmccullock/useful_swing_components/blob/main/date_chooser.jpg?raw=true)
 
 The TimeMultiField is a combined set of javax.swing.JTextField and javax.swing.JComboBox components used to input time values.  The first two fields are for hour and minute values, and the combobox if for choosing AM or PM values.
+
+![Alt text](https://github.com/johnmccullock/useful_swing_components/blob/main/time_entry_field.jpg?raw=true)
+
+![Alt text](https://github.com/johnmccullock/useful_swing_components/blob/main/time_entry_field2.jpg?raw=true)
